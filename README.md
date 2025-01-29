@@ -1,7 +1,7 @@
 # JavaScript Essentials Repository
 
 <div style="width: 100%; display: flex; justify-content: center; align-items: center;">
-  <img src="./assets/js-page.png" style="width: 68%; border-radius: 50%;">
+  <img src="./assets/js-page.png" style="width: 50%; border-radius: 50%;">
 </div>
 
 Welcome to the JavaScript Essentials repository! This repository is designed to help you understand the fundamental concepts of JavaScript, including variable declarations, data types, and scope.
@@ -11,7 +11,7 @@ Welcome to the JavaScript Essentials repository! This repository is designed to 
 ### 1. [Variable Declaration and Scope](./declaration/README.md)
 Learn about the different ways to declare variables in JavaScript (`var`, `let`, `const`) and understand the concept of scope (global, function, and block scope).
 
-### 2. [Primitive and Non-Primitive Data Types](./data-structure/data-structure.js)
+### 2. [Primitive and Non-Primitive Data Types](./data-structure/README.md)
 Explore the various data types in JavaScript, including primitives (null, undefined, boolean, string, bigint, number) and non-primitives (array, object, Map, Set).
 
 ### 3. [Examples and Practice](./declaration/declaration.js)
