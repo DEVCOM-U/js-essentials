@@ -1,6 +1,6 @@
 # JavaScript Essentials Repository
 
-![JavaScript Logo](./assets/js-page.png)
+<img src="./assets/js-page.png" style="width: 50%; border-radius: 50%;">
 
 Welcome to the JavaScript Essentials repository! This repository is designed to help you understand the fundamental concepts of JavaScript, including variable declarations, data types, and scope.
 
