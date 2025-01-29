@@ -1,39 +1,24 @@
-// primitives
+// Primitives
 // null
 // undefined
 // boolean
 // string
 // bigint
-// integer | number
+// number
 
-// const
-// let
+// Variable declarations
+let sampleName = "Global Scope";
+console.log("Sample name first: ", sampleName);
 
-// let sampleName = "Global Scope"
+sampleName = "Sample";
+console.log("Sample name changes: ", sampleName);
 
-// console.log("Sample name first: ", sampleName)
+const PI = 3.14;
+const calc = 12 * PI;
+console.log("Result calculation: ", calc);
 
-// sampleName = "Sample"
-
-// console.log("Sample name changes: ", sampleName)
-
-// const PI = 3.14
-
-// PI = 3.15
-
-// const calc = 12 * PI
-
-// console.log(`Result calculation: `, calc)
-
-// {
-//   // let name = "Local Scope"
-// }
-
-// {
-//   name = "sample"
-// }
-
-// non-primitives
+// Non-primitives
 // array
 // object
-// Map | Set
+// Map
+// Set
