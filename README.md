@@ -1,4 +1,4 @@
-# JavaScript Essentials Repository
+/# JavaScript Essentials Repository
 
 <div style="width: 100%; display: flex; justify-content: center; align-items: center;">
   <img src="./assets/js-page.png" style="width: 50%; border-radius: 50%;">
@@ -16,6 +16,9 @@ Explore the various data types in JavaScript, including primitives (null, undefi
 
 ### 3. [Examples and Practice](./declaration/declaration.js)
 Check out practical examples of variable declarations and scope in JavaScript.
+
+### 4. [Looping in JavaScript](./looping/README.md)
+Understand the fundamental concepts of looping in JavaScript, including `for`, `while`, `do...while`, `for...of`, and `for...in` loops. Learn how to use `break` and `continue` statements to control loop execution.
 
 ## How to Use This Repository
 
